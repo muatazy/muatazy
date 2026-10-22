@@ -1,57 +1,58 @@
 <div align="center">
 
-# Muataz Yahya
+# MUATAZ YAHYA
 
-### Robotics & AI Engineering Student · HITSZ · Shenzhen, China
+### Robotics & Artificial Intelligence Engineering · HITSZ
 
-**Autonomous Systems · Computer Vision · Machine Learning · Intelligent Control**
+**Autonomous Systems · Robotics · Computer Vision · Machine Learning**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muatazy.github.io-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muatazy.github.io)
-[![Email](https://img.shields.io/badge/Email-muataz7705%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muataz7705@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-muatazy-181717?style=for-the-badge&logo=github)](https://github.com/muatazy)
+[Portfolio](https://muatazy.github.io) · [Email](mailto:muataz7705@gmail.com) · [GitHub](https://github.com/muatazy)
 
-**Open to robotics internships, research opportunities, and engineering collaborations.**
+*Second-year student at Harbin Institute of Technology, Shenzhen — building a rigorous foundation in intelligent machines, one experiment at a time.*
 
 </div>
 
-## About me
+---
 
-I am a second-year Robotics & Artificial Intelligence Engineering student at **Harbin Institute of Technology, Shenzhen (HITSZ)**. I am building practical skills in autonomous robots, robotic perception, computer vision, machine learning, and intelligent control.
+## Profile
 
-- **Current focus:** ROS2, mobile robot navigation, SLAM, perception, and embedded systems
-- **Engineering mindset:** build, test, document, and iterate
-- **Languages:** Arabic (native), English (advanced C1), Mandarin Chinese
-- **Location:** Shenzhen, China
-- **Contact:** WeChat `Muataz7705` · WhatsApp `Muataz7705` · [muataz7705@gmail.com](mailto:muataz7705@gmail.com)
+I am a second-year **Robotics & Artificial Intelligence Engineering** student at **Harbin Institute of Technology, Shenzhen (HITSZ)**. My interests span autonomous systems, robot perception, computer vision, and intelligent control. I value engineering work that is reproducible, carefully documented, and honest about its current stage.
 
-## Technical stack
+- **Currently exploring:** ROS 2, mobile-robot navigation, SLAM, computer vision, and embedded systems
+- **Approach:** Understand the fundamentals → build a baseline → test and measure → document what was learned
+- **Languages:** Arabic · English · Mandarin Chinese
+- **Based in:** Shenzhen, China
+- **Open to:** Robotics internships, research opportunities, and thoughtful engineering collaborations
 
-| Area | Tools |
-| --- | --- |
-| Programming | Python · C++ · C · MATLAB · JavaScript |
-| Robotics & AI | ROS / ROS2 · OpenCV · PyTorch · TensorFlow · NumPy · Pandas |
-| Embedded & Systems | Arduino · Linux / Ubuntu · CMake · Git · VS Code |
-| Web & Portfolio | HTML5 · CSS3 · JavaScript · Tailwind CSS · GitHub Pages |
+## Selected workspaces
 
-## Featured work
+These repositories are **early-stage project scaffolds**. Their roadmaps describe planned work; they are not claims of completed systems or measured results.
 
-### Autonomous Mobile Robot Navigation
-ROS2, C++, Python, SLAM, path planning, kinematics, and obstacle avoidance simulations.
+| Workspace | Focus | Status |
+|:--|:--|:--|
+| [ROS 2 Autonomous Navigation](https://github.com/muatazy/ros2-autonomous-navigation) | Navigation, SLAM, simulation, and mobile robotics | Planning / early development |
+| [Real-Time Vision & Tracking](https://github.com/muatazy/real-time-vision-tracking) | Computer vision, detection, tracking, and evaluation | Planning / early development |
+| [Robotics Engineering Lab](https://github.com/muatazy/robotics-engineering-lab) | Reproducible coursework notes and engineering experiments | Building the collection |
+| [HITSZ Robotics & AI Labs](https://github.com/muatazy/hitsz-robotics-ai-labs) | Robotics and AI coursework repository | Existing repository |
+| [Portfolio](https://muatazy.github.io) | Personal portfolio | Visit site |
 
-### Real-Time Computer Vision & Tracking
-A perception pipeline using Python, OpenCV, and PyTorch for object detection and visual tracking.
+## Technical interests
 
-### HITSZ Robotics & AI Labs
-Coursework and engineering experiments covering algorithms, data structures, control systems, and AI engineering.
+**Programming**
+Python · C++ · C · MATLAB · JavaScript
 
-## Goals
+**Robotics & AI**
+ROS / ROS 2 · OpenCV · PyTorch · TensorFlow · NumPy · Pandas
 
-I am actively developing a strong research and engineering portfolio for **robotics internships, AI research projects, autonomous systems teams, and graduate research opportunities**.
+**Tools & systems**
+Linux / Ubuntu · Arduino · CMake · Git · VS Code
+
+## Connect
+
+For research, internships, or engineering collaboration: **[muataz7705@gmail.com](mailto:muataz7705@gmail.com)**
 
 <div align="center">
 
-### Let’s build intelligent machines.
-
-[View my portfolio →](https://muatazy.github.io)
+**Learning to build intelligent machines—with curiosity, evidence, and care.**
 
 </div>
