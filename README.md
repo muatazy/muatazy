@@ -1,136 +1,57 @@
 <div align="center">
 
+# Muataz Yahya
 
+### Robotics & AI Engineering Student · HITSZ · Shenzhen, China
 
-  <!-- Animated Typing Header -->
-  
-  <a href="https://github.com/muatazy">
-  
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Muataz+Yahya;Robotics+%26+AI+Engineering+%40+HITSZ+%F0%9F%A4%96;Autonomous+Systems%2C+Computer+Vision+%26+ML+%F0%9F%A7%A0;Sophomore+Engineering+Student+in+Shenzhen+%F0%9F%9A%80" alt="Typing SVG" />
-    
-  </a>
-  
+**Autonomous Systems · Computer Vision · Machine Learning · Intelligent Control**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-muatazy.github.io-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muatazy.github.io)
+[![Email](https://img.shields.io/badge/Email-muataz7705%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muataz7705@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-muatazy-181717?style=for-the-badge&logo=github)](https://github.com/muatazy)
 
-  <p align="center">
-  
-    <a href="https://github.com/muatazy?tab=followers">
-    
-      <img src="https://img.shields.io/github/followers/muatazy?label=Followers&style=for-the-badge&color=0EA5E9&logoColor=white" alt="GitHub Followers" />
-      
-    </a>
-    
-    <a href="https://github.com/muatazy">
-    
-      <img src="https://komarev.com/ghpvc/?username=muatazy&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile Views" />
-      
-    </a>
-    
-    <img src="https://img.shields.io/badge/WeChat-Muataz7705-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat ID: Muataz7705" />
-    
-    <img src="https://img.shields.io/badge/WhatsApp-Muataz7705-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp: Muataz7705" />
-    
-    <a href="mailto:muataz7705@gmail.com">
-    
-      <img src="https://img.shields.io/badge/Email-muataz7705%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      
-    </a>
-    
-  </p>
-  
-
+**Open to robotics internships, research opportunities, and engineering collaborations.**
 
 </div>
 
+## About me
 
+I am a second-year Robotics & Artificial Intelligence Engineering student at **Harbin Institute of Technology, Shenzhen (HITSZ)**. I am building practical skills in autonomous robots, robotic perception, computer vision, machine learning, and intelligent control.
 
-## 👨💻 About Me
+- **Current focus:** ROS2, mobile robot navigation, SLAM, perception, and embedded systems
+- **Engineering mindset:** build, test, document, and iterate
+- **Languages:** Arabic (native), English (advanced C1), Mandarin Chinese
+- **Location:** Shenzhen, China
+- **Contact:** WeChat `Muataz7705` · WhatsApp `Muataz7705` · [muataz7705@gmail.com](mailto:muataz7705@gmail.com)
 
+## Technical stack
 
+| Area | Tools |
+| --- | --- |
+| Programming | Python · C++ · C · MATLAB · JavaScript |
+| Robotics & AI | ROS / ROS2 · OpenCV · PyTorch · TensorFlow · NumPy · Pandas |
+| Embedded & Systems | Arduino · Linux / Ubuntu · CMake · Git · VS Code |
+| Web & Portfolio | HTML5 · CSS3 · JavaScript · Tailwind CSS · GitHub Pages |
 
-- 🎓 **2nd-Year Robotics & Artificial Intelligence Engineering Student** at **Harbin Institute of Technology, Shenzhen (HITSZ)**.
-- 
-- 🤖 Passionate about **Robotics, Autonomous Systems, Computer Vision, Machine Learning, and Intelligent Control**.
-- 
-- 💻 Developing software and embedded solutions using **Python, C/C++, ROS, OpenCV, and PyTorch**, alongside modern web interfaces.
-- 
-- 🌍 **Trilingual Communicator**: **Arabic** (Native), **English** (Advanced C1), and **Mandarin Chinese**.
-- 
-- 💬 **WeChat**: `Muataz7705` · 📱 **WhatsApp**: `Muataz7705` · 📫 **Email**: [**muataz7705@gmail.com**](mailto:muataz7705@gmail.com)
-- 
+## Featured work
 
+### Autonomous Mobile Robot Navigation
+ROS2, C++, Python, SLAM, path planning, kinematics, and obstacle avoidance simulations.
 
-## 🛠️ Tech Stack & Engineering Tools
+### Real-Time Computer Vision & Tracking
+A perception pipeline using Python, OpenCV, and PyTorch for object detection and visual tracking.
 
+### HITSZ Robotics & AI Labs
+Coursework and engineering experiments covering algorithms, data structures, control systems, and AI engineering.
 
+## Goals
 
-| Category | Technologies & Tools |
-
-| :--- | :--- |
-
-| **Programming Languages** | `Python` · `C++` · `C` · `MATLAB` · `JavaScript` · `HTML5 / CSS3` |
-
-| **Robotics & AI / ML** | `ROS / ROS2` · `OpenCV` · `PyTorch` · `TensorFlow` · `NumPy & Pandas` · `Arduino / Embedded` |
-
-| **Systems & Dev Tools** | `Linux (Ubuntu)` · `Git` · `GitHub` · `GitHub Copilot` · `VS Code` · `CMake` · `Tailwind CSS` |
-
-
+I am actively developing a strong research and engineering portfolio for **robotics internships, AI research projects, autonomous systems teams, and graduate research opportunities**.
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,ros,pytorch,tensorflow,opencv,arduino,linux,git,github,vscode,js,tailwind&perline=7" alt="Tech Stack Icons" />
-  
+### Let’s build intelligent machines.
+
+[View my portfolio →](https://muatazy.github.io)
+
 </div>
-
-
-
-## 🚀 Featured Projects & Engineering RoadMap
-
-
-
-| Project | Tech Stack | Status | Description |
-
-| :--- | :--- | :--- | :--- |
-
-| **Autonomous Mobile Robot Navigation** | `ROS2` `C++` `Python` `SLAM` | 🔄 In Progress | Path planning, kinematics, and obstacle avoidance simulations for mobile robotics |
-
-| **Real-Time Computer Vision & Tracking** | `Python` `OpenCV` `PyTorch` | 🔄 In Progress | Object detection and visual tracking pipeline for intelligent robotic perception |
-
-| **Robotics & AI Coursework @ HITSZ** | `C++` `Python` `Algorithms` | ✅ Active | Data structures, control systems, and AI engineering lab implementations |
-
-| **Personal Engineering Portfolio** | `HTML5` `Tailwind CSS` `JavaScript` | ✅ Live | Interactive engineering resume and robotics project showcase on GitHub Pages |
-
-
-
-## 📊 GitHub Analytics & Activity
-
-
-
-<div align="center">
-
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=muatazy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Muataz's GitHub Stats" />
-  
-  <img height="175em" src="http
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
